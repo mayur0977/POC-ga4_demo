@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ga4_demo/static/css/main.073c9b0a.css",
+    "main.js": "/ga4_demo/static/js/main.133e8763.js",
+    "static/js/787.a39d6e05.chunk.js": "/ga4_demo/static/js/787.a39d6e05.chunk.js",
+    "index.html": "/ga4_demo/index.html",
+    "main.073c9b0a.css.map": "/ga4_demo/static/css/main.073c9b0a.css.map",
+    "main.133e8763.js.map": "/ga4_demo/static/js/main.133e8763.js.map",
+    "787.a39d6e05.chunk.js.map": "/ga4_demo/static/js/787.a39d6e05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.133e8763.js"
+  ]
+}
